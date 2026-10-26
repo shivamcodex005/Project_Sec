@@ -1,3 +1,9 @@
+#This is my name .
+##This is my first project
+*DUCS
+**akhfikhasdkjsdfjhoiuj
+
+
 To check your Git Bash and Git version directly inside Visual Studio Code, you can use the integrated terminal.
 
 1. Open the Integrated Terminal
